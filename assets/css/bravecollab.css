@@ -1,0 +1,61 @@
+@charset "utf-8";
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+}
+div.navbar a{
+    text-decoration: none;
+    color: white;
+}
+div.navbar{
+    background-color: rgb(60, 11, 169);
+    position: relative;
+}
+div.navlogo{
+    display: inline-block;
+}
+div.navcont{
+    display: inline-block;
+    position: absolute;
+    right: 50%;
+    top: 50%;
+    translate: 0 -50%;
+}
+div.navcont > a{
+    padding: 10px;
+}
+#svg{
+    width: 20px;
+}
+div.getbrave{
+    display: inline-block;
+    position: absolute;
+    right: 18%;
+    top: 50%;
+    translate: 0 -50%;
+}
+#getb{
+    background-color: white;
+    padding: 10px 15px;
+    border-radius: 20px;
+    color: rgb(60, 11, 169);
+    font-weight: bold;
+}
+div.trybrave{
+    display: inline-block;
+    position: absolute;
+    right: 5%;
+    top: 50%;
+    translate: 0 -50%;
+}
+#tryb{
+    background-color: rgb(60, 11, 169);
+    color: white;
+    border-radius: 20px;
+    font-weight: bold;
+    border: 2px solid white;
+    padding: 10px 15px;
+    
+}
