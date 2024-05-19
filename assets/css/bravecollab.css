@@ -8,18 +8,25 @@
 div.navbar a{
     text-decoration: none;
     color: white;
+    font-size: 15px;
 }
 div.navbar{
     background-color: rgb(60, 11, 169);
     position: relative;
+    padding: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 div.navlogo{
     display: inline-block;
 }
+#logo{
+    width: 35px;
+    margin-left: 15px;
+}
 div.navcont{
     display: inline-block;
     position: absolute;
-    right: 50%;
+    right: 47%;
     top: 50%;
     translate: 0 -50%;
 }
@@ -41,7 +48,7 @@ div.getbrave{
     padding: 10px 15px;
     border-radius: 20px;
     color: rgb(60, 11, 169);
-    font-weight: bold;
+    font-weight: lighter;
 }
 div.trybrave{
     display: inline-block;
@@ -54,7 +61,7 @@ div.trybrave{
     background-color: rgb(60, 11, 169);
     color: white;
     border-radius: 20px;
-    font-weight: bold;
+    font-weight: lighter;
     border: 2px solid white;
     padding: 10px 15px;
     
