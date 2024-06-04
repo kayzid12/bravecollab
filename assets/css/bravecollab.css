@@ -63,7 +63,7 @@ div.trybrave{
     translate: 0 -50%;
 }
 #tryb{
-    background-color: rgb(60, 11, 169);
+    /* background-color: rgb(60, 11, 169); */
     color: white;
     border-radius: 20px;
     font-weight: lighter;
@@ -103,4 +103,23 @@ div.button a{
     top: 20vw;
     left: 34.5%;
     border-radius: 30px;
+}
+div.bigimg{
+    position: relative;
+    /* margin-top: 27%; */
+}
+#bigimg1{
+    width: 90%;
+    margin-top: 26%;
+    position: absolute;
+    left: 50%;
+    translate: -50%;
+    z-index: -2;
+
+}
+#img2{
+    width: 100%;
+    margin-top: 85%;
+
+    
 }
