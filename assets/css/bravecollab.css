@@ -116,7 +116,6 @@ div.bigimg{
     margin-top: -20%;
 }
 div.flex1{
-    margin-top: 7%;
     /* background-color: white; */
     display: flex;
     flex-direction: row;
@@ -126,7 +125,40 @@ div.flex2{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    margin-top: 7%;
 }
-.rightcontent2 h2{
+/* .rightcontent2{
+    margin-top: 10px;
+
+} */
+
+.leftcontent{
+    margin-left: 70px;
+}
+.leftcontent h2{
+    font-size: 2.5rem;
     margin-top: 70px;
+}
+.leftcontent p{
+    margin-top: 20px;
+    font-size: 1.2rem;
+}
+.leftcontent2{
+    margin-left: 100px;
+}
+
+.rightcontent2 > h2{
+    font-size: 2.5rem;
+    margin-top: 70px;
+}
+.rightcontent2 p{
+    margin-top: 20px;
+    font-size: 1.2rem;
+}
+.rightcontent2{
+    margin-right: 100px;
+}
+iframe{
+    width: 550px;
+    height: 280px;
 }
