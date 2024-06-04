@@ -126,7 +126,7 @@ div.flex2{
     flex-direction: row;
     justify-content: space-around;
     margin-top: 7%;
-}
+} 
 /* .rightcontent2{
     margin-top: 10px;
 
@@ -143,10 +143,10 @@ div.flex2{
     margin-top: 20px;
     font-size: 1.2rem;
 }
+
 .leftcontent2{
     margin-left: 100px;
 }
-
 .rightcontent2 > h2{
     font-size: 2.5rem;
     margin-top: 70px;
@@ -157,7 +157,7 @@ div.flex2{
 }
 .rightcontent2{
     margin-right: 100px;
-}
+} */
 iframe{
     width: 550px;
     height: 280px;
@@ -180,5 +180,45 @@ iframe{
     margin-top: 20px;
 }
 .rightcontent3{
+    margin-right: 100px;
+} 
+div.flex4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 7%;
+} 
+.leftcontent4{
+    margin-top: 70px;
+    margin-left: 60px;
+}
+.rightcontent4 h2{
+    font-size: 2.5rem;
+}
+.rightcontent4 p{
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+.rightcontent4{
+    margin-right: 100px;
+}
+div.flex5{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 7%;
+}
+.leftcontent5{
+    margin-top: 70px;
+    margin-left: 60px;
+}
+.leftcontent5 h2{
+    font-size: 2.5rem;
+}
+.leftcontent5 p{
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+.rightcontent5{
     margin-right: 100px;
 }
