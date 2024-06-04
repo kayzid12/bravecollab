@@ -5,9 +5,9 @@
     scroll-behavior: smooth;
     box-sizing: border-box;
 }
-body{
+div.body1{
     background-image: linear-gradient(to right, rgb(60,10,168), rgb(114,15,168));
-    background-repeat: repeat-y; 
+    background-repeat: repeat-y;
 
 }
 div.navbar a{
@@ -16,7 +16,6 @@ div.navbar a{
     font-size: 15px;
 }
 div.navbar{
-    /* background-image: linear-gradient(to right, rgb(60,10,168) 50%, rgb(114,15,168)); */
     position: relative;
     padding: 30px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -104,7 +103,21 @@ div.button a{
     left: 34.5%;
     border-radius: 30px;
 }
+div.bigimg{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#bigimg1{
+    width: 90%;
+    margin-top: 27%;
+}
+#img2{
+    margin-top: -20%;
+}
 div.flex1{
+    margin-top: 7%;
+    /* background-color: white; */
     display: flex;
     flex-direction: row;
     justify-content: space-around;
