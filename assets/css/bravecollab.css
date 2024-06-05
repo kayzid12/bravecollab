@@ -222,3 +222,100 @@ div.flex5{
 .rightcontent5{
     margin-right: 100px;
 }
+.heading2{
+    color: rgb(53,60,170);
+    margin-left: 90px;
+    margin-bottom: 20px;
+    margin-top: 100px;
+    font-size: 40px;
+}
+div.bravevsothers{
+    display: flex;
+    flex-direction: row;
+    margin-left: 90px;
+    margin-top: 20px;
+    
+}
+div.strong{
+    display: flex;
+    flex-direction: row;
+}
+div.noprotection{
+    display: flex;
+    flex-direction: row;
+}
+div.Limited{
+    display: flex;
+    flex-direction: row;
+}
+.strong{
+    background-color: rgb(19,162,120);
+    border-radius: 17.5px;
+    width: 35px;
+    height: 35px;
+    margin-top: 20px;
+}
+.fa-check{
+    color: white;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 6px;
+    font-size: 25px;
+}
+.sp{
+    margin-left: 10px;
+    margin-top: 27px;
+    font-size: 18px;
+    font-weight: 600;
+}
+.noprotection{
+    background-color: rgb(235,58,12);
+    border-radius: 17.5px;
+    width: 35px;
+    height: 35px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.fa-xmark{
+    color: white;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 8px;
+    font-size: 25px;
+}
+.Limited{
+    background-color: rgb(244,197,25);
+    border-radius: 17.5px;
+    width: 35px;
+    height: 35px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.fa-regular{
+    color: white;
+    text-align: center;
+    margin-top: -4px;
+    margin-left: 5px;
+    font-size: 25px;
+}
+.bravevsothertab{
+    margin-top: 100px;
+}
+h6{
+    color: rgb(135,143,150);
+    font-size: 20px;
+    margin-right: 250px;
+    align-self: center;
+}
+.builtinfeatures{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.builtinfeatures div{
+    margin-right: 45px;
+}
+.builtinfeatures p{
+    font-weight: 600;
+    font-size: 20px;
+}
