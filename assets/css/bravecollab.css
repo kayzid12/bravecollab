@@ -322,10 +322,95 @@ h6{
     font-weight: 600;
     font-size: 20px;
 }
+ /* HEAD */
 
+h5{
+    font-size: 19px;
+    margin-right: 240px;
+    align-self: center;
+    text-align: left;
+    margin-top: 20px;
+    /* margin-left: -45px; */
+}
+.invasive{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 20px;
+}
+.invasive div{
+    margin-right: 33px;
+}
+.diffstrong{
+    margin-left: 35px;
+}
+.in0{
+    background-color: ;
+}
+.builtinfeatures{
+    background-color: rgb(242,245,249);
+    width: 80%;
+    padding: 30px 0px;
+    margin: 0 auto;
+}
+.in0{
+    background-color: rgb(255,254,254);
+    width: 80%;
+    padding: 20px 0px;
+    margin: 0 auto;
+}
+.in1{
+    background-color: rgb(242,245,249);
+    width: 80%;
+    padding: 20px 0px;
+    margin: 0 auto;
+}
+.in2{
+    background-color: rgb(255,254,254);
+    width: 80%;
+    padding: 20px 0px;
+    margin: 0 auto;
+}
+.in3{
+    background-color: rgb(242,245,249);
+    width: 80%;
+    padding: 20px 0px;
+    margin: 0 auto; 
+}
+.in4{
+    background-color: rgb(255,254,254);
+    width: 80%;
+    padding: 20px 0px;
+    margin: 0 auto;
+}
+.in5{
+    background-color: rgb(242,245,249);
+    width: 80%;
+    padding: 20px 0px;
+    margin: 0 auto; 
+}
+.in6{
+    background-color: rgb(255,254,254);
+    width: 80%;
+    padding: 20px 0px;
+    margin: 0 auto;
+}
+.in7{
+    background-color: rgb(242,245,249);
+    width: 80%;
+    padding: 20px 0px;
+    margin: 0 auto; 
+}
+.goggle{
+    text-align: center;
+    margin-top: 10px;
+    font-style: italic;
+}
+ /* built-in features completed */
 
 /* advanced features */
-/* div.advance1{
+
+div.advance1{
     margin-top: 10%;
     text-align: center;
 }
@@ -380,5 +465,5 @@ div.img9 > p{
     margin-top: 5px;
     font-size: 1.5rem;
     color: rgb(112, 108, 108);
-} */
+} 
 /* advanced features completed */
