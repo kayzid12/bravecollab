@@ -467,3 +467,85 @@ div.img9 > p{
     color: rgb(112, 108, 108);
 } 
 /* advanced features completed */
+/* footerone */
+.svg{
+    fill: #620698;
+}
+.svgmain{
+    margin-top: 100px;
+    position: relative;
+}
+.footeroneheading{
+    position: relative;
+    top: -200px;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+.footeronepara{
+    position: relative;
+    top: -170px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+.footer1{
+    background: linear-gradient(to right, rgb(81,3,165), rgb(149,13,111));
+    margin-top: -135px;
+    height: 900px;
+}
+#getb2{
+    background-color: rgb(159,69,159);
+    padding: 16px 120px;
+    text-decoration: none;
+    color: white;
+    margin-top: 50px;
+    position: relative;
+    top: 60px;
+    left: 34%;
+    font-size: 30px;
+    border-radius: 35px;
+}
+.footerabt{
+    display: flex;
+    flex-direction: column;
+    margin-left: 220px;
+    margin-top: 180px;
+}
+hr{
+    width: 80%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.footerabt a{
+    text-decoration: none;
+    color: white;
+    font-size: 1.2rem;
+}
+.mre{
+    margin-left: 58%;
+}
+.mre1{
+    margin-left: 51%;
+}
+.mre2{
+    margin-left: 59.5%;
+}
+.mre3{
+    margin-left: 50.5%;
+}
+.mre4{
+    margin-left: 64%;
+}
+.mre5{
+    margin-left: 61.4%;
+}
+.mre6{
+    margin-left: 49%;
+}
+.mre7{
+    margin-left: 68%;
+}
+.mre8{
+    margin-left: 52%;
+}
