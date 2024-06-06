@@ -467,3 +467,54 @@ div.img9 > p{
     color: rgb(112, 108, 108);
 } 
 /* advanced features completed */
+
+
+
+
+
+
+/* footer2 */
+/* div.footer2{
+    margin-top: 20%;
+    background-color: rgb(44,44,53);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; 
+    justify-content: space-evenly;
+    padding: 10px 50px;
+    gap: 100px;
+}
+div.footer2 h2{
+    margin-top: 100px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+div.footer2 p{
+    color: rgb(197, 191, 191);
+    font-size: 14px;
+    font-weight: lighter;
+}
+form{
+    color: rgb(170, 165, 165);
+}
+#language{
+    color: rgb(181, 175, 175);
+    background-color: rgb(49, 48, 48);
+}
+div.privacy{
+    margin-top: -100px;
+}
+div.footer3{
+    display: flex;
+    justify-content: space-between;
+}
+#lastimg{
+    width: 100px;
+    margin-right: 500px;
+}
+div.footer3 p{
+    margin-left: 100px;
+} */
+
+
